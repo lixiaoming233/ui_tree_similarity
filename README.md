@@ -1,5 +1,5 @@
 # ui_tree_similarity
-Determine page similarity based on page UI tree structure.
+Calculate page similarity based on page UI tree structure.
 
 [![PyV](https://img.shields.io/badge/python-3.9-brightgreen.svg)]()
 
