@@ -2,9 +2,10 @@
 Determine page similarity based on page UI tree structure.
 
 Reference [Li Jingyang, Zhang Bo. Method and device for determining the similarity of web page structure](https://wenku.baidu.com/view/72795fcddf36a32d7375a417866fb84ae55cc3e2?fr=xueshu&_wkts_=1734419226309)
+
 Based on code implementation of [HTMLSimilarity](https://github.com/SPuerBRead/HTMLSimilarity).
 
-[! [PyV](https://img.shields.io/badge/python-3.9-brightgreen.svg)]()
+[![PyV](https://img.shields.io/badge/python-3.9-brightgreen.svg)]()
 
 Method of use
 -----------
